@@ -28,10 +28,7 @@ I am a passionate software developer focused on building scalable, efficient, an
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alejandro Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-27&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="175" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandro-27&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
