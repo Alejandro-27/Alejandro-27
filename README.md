@@ -21,7 +21,7 @@ I am a passionate software developer focused on building scalable, efficient, an
 
 ### ⚙️ Other Knowledge
 - **Familiar with:** Java, PHP.
-- **Tools:** Git, Linux (Debian/Ubuntu), Docker, RESTful APIs.
+- **Tools:** Git, Linux (Debian/Ubuntu), Docker, RESTful APIs, JWT.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alejandro-27&theme=tokyonight)](https://git.io/streak-stats)
