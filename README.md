@@ -60,20 +60,6 @@ Currently expanding my skills in **TypeScript, Docker, cloud infrastructure, and
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-TypeScript
-       ↓
-Advanced Node.js
-       ↓
-Software Architecture
-       ↓
-Docker & Containerization
-       ↓
-Cloud & DevOps
-```
-
 I'm currently focusing on improving my knowledge of:
 
 * **TypeScript** for scalable backend and full-stack applications.
