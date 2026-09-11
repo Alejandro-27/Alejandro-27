@@ -50,4 +50,4 @@ Currently focused on TypeScript, Node.js, Docker, and modern backend development
 
 Selected projects and experiments are available in my repositories.
 
-[GitHub](https://github.com/Alejandro-27)
+[GitHub](https://github.com/Alejandro-27?tab=repositories)
